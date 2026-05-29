@@ -8,6 +8,6 @@
 - [myflixbd.to](http://myflixbd.to) — Bangla movie download latest
 
 
- ## 🔗 Useful Links Content -Couse download  Links
+ ## 🔗 Useful Links Content -Course download  Links
 - [PSDLY](https://www.psdly.co.uk/)
 - [Downloadly - Page 9](https://downloadly.ir/page/9/)
