@@ -11,3 +11,4 @@ https://www.youtube.com/watch?v=J2KG3F7qO_I
 ## links to read
 
 https://ossinsight.io/trending/ai
+https://github.com/trending/python
