@@ -19,3 +19,8 @@ Building a Second Brain
 How to Take Smart Notes
 The Psychology of Money
 Mindset
+
+
+#git repo to check
+
+https://github.com/roboflow/supervision
