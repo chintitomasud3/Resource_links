@@ -1,5 +1,7 @@
 # Resource_links
+# Technical Lab
 
+https://kodekloud.com/studio/labs/linux/linux-permission-own
 
 # Arabic _Lesson _links
 ```
