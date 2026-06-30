@@ -1,6 +1,6 @@
 # Resource_links
 # Technical Lab
-
+https://freedomain.one/index.jsp
 https://kodekloud.com/studio/labs/linux/linux-permission-own
 
 # Arabic _Lesson _links
