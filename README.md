@@ -1,3 +1,8 @@
+## System Topics to read
+CrashLoopBackOff
+OOMKilled
+
+
 # Resource_links
 # Technical Lab
 https://freedomain.one/index.jsp
