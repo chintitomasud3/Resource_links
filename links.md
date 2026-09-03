@@ -21,3 +21,5 @@
 
 
   ## 🔗 Azure Links
+  https://learn.kodekloud.com/learn/courses/coursera-azure-administrator-storage-and-compute-solutions/module/3d108cc3-f416-46f4-81fe-88826fa20e19/lesson/ccf84311-6da6-41c3-a74f-895fc9cbd732
+  
