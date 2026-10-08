@@ -24,3 +24,7 @@
   https://learn.kodekloud.com/learn/courses/coursera-azure-administrator-storage-and-compute-solutions/module/3d108cc3-f416-46f4-81fe-88826fa20e19/lesson/ccf84311-6da6-41c3-a74f-895fc9cbd732
   
   https://learn.kodekloud.com/user/courses/coursera-azure-administrator-storage-and-compute-solutions/module/26a6d160-eb4a-4079-a120-baad392688a5/lesson/24a6c129-cc0c-4638-a923-6b7276b2f889
+
+
+
+  https://labs.cloudlearn.io/labs/creating-your-first-virtual-machine-in-azure-cloud/h3eevdsu83d1elo8m9a503/lab-environment
