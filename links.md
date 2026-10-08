@@ -28,3 +28,6 @@
 
 
   https://labs.cloudlearn.io/labs/creating-your-first-virtual-machine-in-azure-cloud/h3eevdsu83d1elo8m9a503/lab-environment
+
+
+  https://labs.cloudlearn.io/labs
