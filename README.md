@@ -1,5 +1,5 @@
-#opencode version : 1.18.31
-
+#opencode version : 1.18.31 :minimax M3.1
+ 
 
 ## System Topics to read
 ```
