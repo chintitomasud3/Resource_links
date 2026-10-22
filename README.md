@@ -1,3 +1,6 @@
+#opencode version : 1.18.31
+
+
 ## System Topics to read
 ```
 CrashLoopBackOff
